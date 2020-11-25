@@ -1,0 +1,12 @@
+{
+  "name": "tiny notes",
+  "desc": "Take tiny notes in the browser.",
+  "url": "https://tiny-notes.me/",
+  "tags": [
+    "Writing",
+    "Notes",
+    "Misc"
+  ],
+  "maintainers": [nicokoenig],
+  "addedAt": "2020-11-25"
+}
